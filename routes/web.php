@@ -19,6 +19,5 @@ Route::get('/', function () {
 });
 
 Route::get('/index', [IndexController::class, 'index'])->name('index');
-Route::get('/search', [IndexController::class, 'search'])->name('search');
 
 
