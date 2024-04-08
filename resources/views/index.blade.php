@@ -60,7 +60,7 @@
             </div>
         </div>
     </nav>
-    <header class="py-5 bg-light border-bottom mb-4" style="background-image: url('{{ asset('images/Employees.jpg') }}'); background-size: cover; background-position: center;margin-top:5px;">
+    <header class="py-5 bg-light border-bottom mb-4" style="background-image: url('{{ asset('images/Employees.jpg') }}'); background-size: cover; background-position: center;margin-top:1px;">
         <div class="container">
             <div class="text-center my-5 banner-text">
                 <h1 class="fw-bolder" style="color:whitesmoke;">Employee Details</h1>
